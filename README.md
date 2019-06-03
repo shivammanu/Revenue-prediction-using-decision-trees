@@ -1,4 +1,4 @@
-# decision_trees
+# Decision trees
 
 ## Problem Statement:
 A large child education toy company which sells its products online as well as in retail stores wants to improve its business. They would like to categorize the customers based of revenue so that they can make business decisions accordingly.
